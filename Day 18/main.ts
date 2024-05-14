@@ -23,3 +23,10 @@ console.log(`Language : ${language[0]} , Tools : ${tools[2]} , Frame Works : ${0
 
 // Q-54 Making Flexible Object Key
 
+let function1 = (key:string,value:string)=>{
+    let Object1 = {}
+    Object1[key]=value
+    return Object1
+}
+let result = function1("name","Abro")
+console.log(result)
