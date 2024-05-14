@@ -13,6 +13,7 @@ var name_object = mix_Object.filter(function (value) { return typeof value === "
 console.log(name_object);
 var number_object = mix_Object.filter(function (value) { return typeof value === "number"; });
 console.log(number_object);
+// Q-57 Finding Average
 var grades = [450, 500, 380, 570];
 var average = grades.reduce(function (num1, num2) { return num1 + num2; }, 0) / grades.length;
 console.log(average);

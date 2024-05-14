@@ -31,22 +31,22 @@ console.log(average)
 
 
 
-// let total_marks:number =  850
-// let one_percent_total_marks:number =  850/100
-// let grade = (num:number):void=>{
-//     let percetage:number = num/one_percent_total_marks
-//     console.log(percetage)
-//     if (percetage >= 90 ){
-//         console.log("Grade : A+ \nCongratulations on your fantastic grades!")}
-//     else if (percetage >= 80){
-//         console.log("Grade : A \nWell done! Your hard work paid off!")}
-//     else if (percetage >= 70){
-//         console.log("Grade : B \nGreat job on your outstanding grades!")}
-//     else if (percetage >= 60){
-//         console.log("Grade : C \nImpressive work! Keep it up!")}
-//     else if (percetage >= 40){
-//         console.log("Pass \nKeep focusing")}
-//     else if (percetage >= 0){
-//         console.log("Fail \nTyr agian")}
-// }
-// grade(500)
+let total_marks:number =  850
+let one_percent_total_marks:number =  850/100
+let grade = (num:number):void=>{
+    let percetage:number = num/one_percent_total_marks
+    console.log(percetage)
+    if (percetage >= 90 ){
+        console.log("Grade : A+ \nCongratulations on your fantastic grades!")}
+    else if (percetage >= 80){
+        console.log("Grade : A \nWell done! Your hard work paid off!")}
+    else if (percetage >= 70){
+        console.log("Grade : B \nGreat job on your outstanding grades!")}
+    else if (percetage >= 60){
+        console.log("Grade : C \nImpressive work! Keep it up!")}
+    else if (percetage >= 40){
+        console.log("Pass \nKeep focusing")}
+    else if (percetage >= 0){
+        console.log("Fail \nTyr agian")}
+}
+grade(500)
