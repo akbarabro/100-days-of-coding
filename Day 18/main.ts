@@ -20,3 +20,6 @@ frameWorks:["React","Spring Boot"]
 }
 let {language,tools,frameWorks} = programmerSkills
 console.log(`Language : ${language[0]} , Tools : ${tools[2]} , Frame Works : ${0}`)
+
+// Q-54 Making Flexible Object Key
+

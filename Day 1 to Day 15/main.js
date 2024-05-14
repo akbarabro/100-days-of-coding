@@ -1,6 +1,5 @@
 "use strict";
 // 45 Questions
-Object.defineProperty(exports, "__esModule", { value: true });
 // 1 
 // All softwares are installed
 // 2 

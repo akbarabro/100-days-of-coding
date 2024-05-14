@@ -1,6 +1,5 @@
 "use strict";
 // Question 46 function in array
-Object.defineProperty(exports, "__esModule", { value: true });
 let arr = {
     name: "Tecno",
     model: "Spark 20",
