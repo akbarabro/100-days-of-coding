@@ -1,4 +1,4 @@
-// Q-58 
+// Q-58 Finding Average
 let score_function = (...score:number[])=>{
     let score_average = score.reduce((value1,value2)=>value1+value2,0)/score.length
     console.log(score_average)
