@@ -15,3 +15,8 @@ let upperAndLowerCasr = (val1:string)=>{
 upperAndLowerCasr("Akbar")
 
 // Q-84 Replacing Text in a String
+
+let replace_string = (val1):string=>{
+    return val1.replace(/Typescript/g,"Javascript")
+}
+console.log(replace_string("I'm learning Typescript"))

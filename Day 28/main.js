@@ -10,3 +10,8 @@ var upperAndLowerCasr = function (val1) {
     console.log("Upper Case : ".concat(upper_case, "\nLower Case : ").concat(lower_case));
 };
 upperAndLowerCasr("Akbar");
+// Q-84 Replacing Text in a String
+var replace_string = function (val1) {
+    return val1.replace(/Typescript/g, "Javascript");
+};
+console.log(replace_string("I'm learning Typescript"));
