@@ -37,4 +37,5 @@ for (let name of name_list1){
         console.log(`${name} is same in both arrays`)
     }
 }
+
 console.log(Combining_list1)
