@@ -214,6 +214,7 @@ console.log((name1 !== "raza")||(name2 !== "Ahmed"))
 console.log("Is a graterthen equal 5 or a equal to 5 ? I predict True.")
 console.log((a >= 5)||(a == 5))
 
+
 // 25
 let alien_color = ["green" , "yellow" , "red"]
 if (alien_color[0] === "green"){
